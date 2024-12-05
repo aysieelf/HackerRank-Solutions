@@ -20,7 +20,7 @@ I'm a Telerik student passionate about programming. Through solving these challe
 - Total problems solved: 20
 - Current points: 215
 - Level: ★★★☆☆☆☆
-- Rank: 565916
+- Rank: 565,916
 
 ## 🔗 Useful Links
 - [My HackerRank Profile](https://www.hackerrank.com/profile/aysie_elf)
