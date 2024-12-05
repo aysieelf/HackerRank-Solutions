@@ -25,9 +25,29 @@ I'm a Telerik student passionate about programming. Through solving these challe
 ## 🔗 Useful Links
 - [My HackerRank Profile](https://www.hackerrank.com/profile/aysie_elf)
 
-## ⭐ Contribute
+Each solution includes:
+```python
+"""
+Problem: [Name and Number]
+Topic: [Array/Tree/String...]
 
-If you have suggestions for improvements, feel free to contact me. :D
+Approach:
+1. First step
+2. Second step
+3. ...
 
+Learning:
+- What I learned
+- What to remember
+"""
+[Solution code here]
+```
+
+## ⚡ Quick Links
+- [My LeetCode Profile](https://www.hackerrank.com/profile/aysie_elf)
+
+## 🌟 Contributing
+Found a better solution? I'd love to learn from you! Contact me!
+- aysie.elf@gmail.com
 ---
-*This repository is regularly updated with new solutions!* 🚀
+*Keep coding, keep learning!* 💻
