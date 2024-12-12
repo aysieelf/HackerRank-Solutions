@@ -28,17 +28,17 @@ I'm a Telerik student passionate about programming. Through solving these challe
 Each solution includes:
 ```python
 """
-Problem: [Name and Number]
-Topic: [Array/Tree/String...]
+Task:
+[...]
 
-Approach:
-1. First step
-2. Second step
-3. ...
+Input Format:
+[...]
 
-Learning:
-- What I learned
-- What to remember
+Output Format:
+[...]
+
+What I learned:
+- If I learned something new
 """
 [Solution code here]
 ```
