@@ -22,8 +22,7 @@ I'm a Telerik student passionate about programming. Through solving these challe
 - Level: ★★★☆☆☆☆
 - Rank: 567,561
 
-## 🔗 Useful Links
-- [My HackerRank Profile](https://www.hackerrank.com/profile/aysie_elf)
+## 📝 Solution Template
 
 Each solution includes:
 ```python
