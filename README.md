@@ -45,7 +45,7 @@ What I learned:
 ```
 
 ## ⚡ Quick Links
-- [My LeetCode Profile](https://www.hackerrank.com/profile/aysie_elf)
+- [My HackerRank Profile](https://www.hackerrank.com/profile/aysie_elf)
 
 ## 🌟 Contributing
 Found a better solution? I'd love to learn from you! Contact me!
