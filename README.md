@@ -38,8 +38,9 @@ Output Format:
 [...]
 
 What I learned:
-- If I learned something new
+[If I learned something new]
 """
+
 [Solution code here]
 ```
 
