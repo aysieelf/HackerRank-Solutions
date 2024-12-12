@@ -12,6 +12,10 @@ Task:
 Input Format:
     The first line contains a string, s.
     The second line contains the width, w.
+
+What I learned:
+    Discovered about textwrap.fill(string, width) -
+    Python's built-in text wrapping function.
 """
 import textwrap
 
