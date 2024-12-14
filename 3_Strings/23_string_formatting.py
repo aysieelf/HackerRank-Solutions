@@ -14,8 +14,10 @@ Task:
     and the values should be separated by a single space.
 
 Input Format
+    A single integer denoting n.
 
-A single integer denoting n.
+What I learned:
+    That bin(), hex() and oct() functions always have prefixes with len = 2.
 """
 
 def print_formatted(number):
