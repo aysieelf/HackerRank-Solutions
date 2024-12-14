@@ -17,10 +17,10 @@ I'm a Telerik student passionate about programming. Through solving these challe
 - Prepare for future growth in the IT field
 
 ## 📈 Statistics
-- Total problems solved: 22
-- Current points: 225
+- Total problems solved: 23
+- Current points: 235
 - Level: ★★★★☆☆☆
-- Rank: 527,523
+- Rank: 496,763
 
 ## 📝 Solution Template
 
