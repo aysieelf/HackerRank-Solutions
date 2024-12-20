@@ -7,7 +7,7 @@ Hi there! This is a collection of my solutions to HackerRank challenges. Here I 
 Working on these challenges has helped me improve:
 - Algorithmic thinking
 - Code optimization
-- Step-by-step problem solving
+- Step-by-step problem-solving
 
 ## 🎓 About Me
 
@@ -17,10 +17,10 @@ I'm a Telerik student passionate about programming. Through solving these challe
 - Prepare for future growth in the IT field
 
 ## 📈 Statistics
-- Total problems solved: 27
-- Current points: 355
+- Total problems solved: 28
+- Current points: 365
 - Level: ★★★★☆☆☆
-- Rank: 342,911
+- Rank: 336,964
 
 ## 📝 Solution Template
 
