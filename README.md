@@ -17,10 +17,10 @@ I'm a Telerik student passionate about programming. Through solving these challe
 - Prepare for future growth in the IT field
 
 ## 📈 Statistics
-- Total problems solved: 28
-- Current points: 365
+- Total problems solved: 29
+- Current points: 375
 - Level: ★★★★☆☆☆
-- Rank: 336,964
+- Rank: 331,446
 
 ## 📝 Solution Template
 
@@ -39,7 +39,6 @@ Output Format:
 What I learned:
 [If I learned something new]
 """
-
 [Solution code here]
 ```
 
