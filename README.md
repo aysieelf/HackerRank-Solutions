@@ -1,6 +1,7 @@
 # 🎯 My HackerRank Solutions
 
-Hi there! This is a collection of my solutions to HackerRank challenges. Here I share my approach to different problems and what I've learned along the way.
+Hi there! This is a collection of my solutions to HackerRank challenges. 
+Here I share my approach to different problems and what I've learned along the way.
 
 ## 💡 What I've Learned
 
@@ -17,10 +18,10 @@ I'm a Telerik student passionate about programming. Through solving these challe
 - Prepare for future growth in the IT field
 
 ## 📈 Statistics
-- Total problems solved: 35 / 115
-- Current points: 445
+- Total problems solved: 36 / 115
+- Current points: 465
 - Level: ★★★★★☆☆
-- Rank: 211,301
+- Rank: 194,312
 
 ## 📝 Solution Template
 
@@ -39,7 +40,7 @@ Output Format:
 What I learned:
 [If I learned something new]
 """
-[Solution code here]
+# [Solution code here]
 ```
 
 ## ⚡ Quick Links
