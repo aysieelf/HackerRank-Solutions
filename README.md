@@ -4,24 +4,19 @@ Hi there! This is a collection of my solutions to HackerRank challenges.
 Here I share my approach to different problems and what I've learned along the way.
 
 ## 💡 What I've Learned
-
 Working on these challenges has helped me improve:
 - Algorithmic thinking
 - Code optimization
 - Step-by-step problem-solving
-
-## 🎓 About Me
-
-I'm a Telerik student passionate about programming. Through solving these challenges:
-- I develop my logical thinking
-- Learn to write cleaner and more efficient code
-- Prepare for future growth in the IT field
+- Writing clean and efficient code
+- Debugging and testing
+- I developed my Python skills
 
 ## 📈 Statistics
-- Total problems solved: 40 / 115
-- Current points: 525
+- Total problems solved: 41 / 115
+- Current points: 575
 - Level: ★★★★★☆☆
-- Rank: 158,640
+- Rank: 138,182
 
 ## 📝 Solution Template
 

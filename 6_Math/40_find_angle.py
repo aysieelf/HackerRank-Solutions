@@ -11,14 +11,12 @@ Input Format:
     The second line contains the length of side BC.
 
 Output Format:
-
     Output  in degrees.
     Note: Round the angle to the nearest integer.
 """
 from math import atan, degrees
 
-# MCB = (AB / BC) INVERSE TAN (tan -1?)
-# MBC = 90 - MCB
+# MCB = MBC = (AB / BC) INVERSE TAN
 
 ab = int(input())
 bc = int(input())
