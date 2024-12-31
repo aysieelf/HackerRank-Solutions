@@ -13,10 +13,10 @@ Working on these challenges has helped me improve:
 - I developed my Python skills
 
 ## 📈 Statistics
-- Total problems solved: 41 / 115
-- Current points: 575
+- Total problems solved: 42 / 115
+- Current points: 595
 - Level: ★★★★★☆☆
-- Rank: 138,182
+- Rank: 131,456
 
 ## 📝 Solution Template
 
