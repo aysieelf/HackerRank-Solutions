@@ -13,10 +13,18 @@ Working on these challenges has helped me improve:
 - I developed my Python skills
 
 ## 📈 Statistics
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 - Total problems solved: 43 / 115
 - Current points: 605
 - Level: ★★★★★☆☆
 - Rank: 128,353
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- Total problems solved: 0
+- Current points: 0
+- Level: ☆☆☆☆☆
+- Rank: 128,353
+
 
 ## 📝 Solution Template
 
