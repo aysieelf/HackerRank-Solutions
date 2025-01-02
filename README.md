@@ -17,12 +17,13 @@ Working on these challenges has helped me improve:
 - Total problems solved: 43 / 115
 - Current points: 605
 - Level: ★★★★★☆☆
-- Rank: 128,353
+- Rank: 128,357
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 - Total problems solved: 0
-- Current points: 0
-- Level: ☆☆☆☆☆
+- Current points: 2
+- Level: ★☆☆☆☆
 - Rank: 128,353
 
 
