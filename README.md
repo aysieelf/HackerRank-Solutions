@@ -24,8 +24,6 @@ Working on these challenges has helped me improve:
 - Total problems solved: 0
 - Current points: 2
 - Level: ★☆☆☆☆
-- Rank: 128,353
-
 
 ## 📝 Solution Template
 
