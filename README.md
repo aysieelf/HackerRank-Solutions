@@ -14,10 +14,10 @@ Working on these challenges has helped me improve:
 
 ## 📈 Statistics
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-- Total problems solved: 46 / 115
-- Current points: 685
+- Total problems solved: 48 / 115
+- Current points: 715
 - Level: ★★★★★☆☆
-- Rank: 107,262
+- Rank: 101,047
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
