@@ -21,9 +21,9 @@ Working on these challenges has helped me improve:
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- Total problems solved: 16
-- Current points: 16 / 17
-- Level: ★★★☆☆
+- Total problems solved: 17
+- Current points: 17 / 25
+- Level: ★★★★☆
 
 ## 📝 Solution Template
 
